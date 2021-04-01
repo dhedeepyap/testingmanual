@@ -1,4 +1,4 @@
-connection: "gcp_dsdv_orange_iguana"
+connection: "dsdv_psd_orange_iguana"
 
 include: "/views/*.view.lkml"
 include: "/*.dashboard.lookml"
